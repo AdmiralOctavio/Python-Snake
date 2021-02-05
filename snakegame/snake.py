@@ -21,7 +21,7 @@ snakeHead.setx(0)
 snakeHead.sety(0)
 snakeHead.direction = "stop"
 
-# Pen thing that does stuff idfk
+# Pen thing that does stuff 
 pen = turtle.Turtle()
 pen.speed(0)
 pen.shape("square")
